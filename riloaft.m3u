@@ -756,8 +756,8 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Lifestyle // IPTV Rilo", HGTV 
-http://dituduhmaling.xyz/US33T4/hgtv.m3u8
-###https://home-tv.web.id/RHS/1111111111111111111111111111111111111111111111111111111.m3u8?channel=usee-hgtv
+http://iptv.tvmalaysia.cc:80/989898/989898/7076
+###http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" group-title="Lifestyle // IPTV Rilo",diy network
 http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117349
