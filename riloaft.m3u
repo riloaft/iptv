@@ -524,7 +524,7 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11481
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/979440433075052549/UlweJi-h.jpg" group-title="Entertainment // IPTV Rilo",SYFY (East)
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11554
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11555
 
 #EXTINF:-1 tvg-logo="https://cdn.justjaredjr.com/wp-content/uploads/headlines/2018/05/cw-fall-2018-schedule-revealed.jpg" group-title="Entertainment // IPTV Rilo",CW
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052658
@@ -533,8 +533,8 @@ http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052658
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/16891
 
-#EXTINF:-1 tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg" group-title="Entertainment // IPTV Rilo",FXX (East)
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11514
+#EXTINF:-1 tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg" group-title="Entertainment // IPTV Rilo",FXX USA
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11515
 ###http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fe/57/91/fe579161e630606a640ca8b9ca1343c3.jpg" group-title="Entertainment // IPTV Rilo",fyi
