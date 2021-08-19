@@ -735,7 +735,7 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Knowledge // IPTV Rilo", Lingua
-https://home-tv.web.id/RHS/280621.m3u8?channel=usee-lingua
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge // IPTV Rilo", Crime Investigation
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
